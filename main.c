@@ -6,6 +6,5 @@
     {
  -    printf(“Holberton\n”);
  +    printf(“Hello Holberton\n”);
-    }
-    return 0;
-  }
+   
+  {
