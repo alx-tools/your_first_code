@@ -1,9 +1,11 @@
 int main()
 {
+  /* for loop */
   int i;
-  for (i = 0; i < 10; i++)
+  // this loop prints out "Hello Holberton"
+  for (i = 0; i < 32; i++)
   {
-    printf("Holberton\n");
+    printf("Hello Holberton\n");
   }
   return 0;
 }
