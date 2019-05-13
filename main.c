@@ -7,3 +7,5 @@ int main()
   }
   return 0;
 }
+
+printtf(“Hello Holberton\n”);
