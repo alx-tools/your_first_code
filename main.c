@@ -1,6 +1,6 @@
-int main()
+Hello Holberton ()
 {
-  int i;
+  Hello i;
   for (i = 0; i < 10; i++)
   {
     printf("Holberton\n");
