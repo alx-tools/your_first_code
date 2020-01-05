@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+  int c, n;
+
+  puts("32 is the answer!");
+  scanf("%d", &n);
+
+  for (c = 1; c <= n; c++)
+    puts("Hello Holberton");
+
+  return 0;
+}
