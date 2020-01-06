@@ -1,2 +1,2 @@
 # your_first_code
-A very simple snippet of C code, for Holberton School's admissions.
+Un extrait très simple de code C, pour les admissions de Holberton Schools my first code whith holberton school.
