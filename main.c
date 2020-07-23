@@ -5,5 +5,5 @@ int main()
   {
     printf("Hello Holberton");
   }
-  return 0;
+
 }
