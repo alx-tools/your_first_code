@@ -1,4 +1,4 @@
-# your_first_code
+
 int main()
 {
 int i;
