@@ -7,4 +7,4 @@ int main()
   }
   return 0;
 }
-//not sure if this works, I have never used C but I am familiar with loops.
+//not sure if this works, I have never used C but I am familiar with loops
