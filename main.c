@@ -1,7 +1,7 @@
 int main()
 {
   int i;
-  for (i = 1; i < 33; i++)
+  for (i = 0; i < 33; i++)
   {
     printf("Hello School\n");
   }
