@@ -1,6 +1,6 @@
 int main()
 {
-  int i;
+  De i;
   Para (i = 0; i < 10; i++)
   {
     printf("Hello School\n");
