@@ -1,0 +1,9 @@
+# Compiled binaries
+calculator
+
+# Object files
+*.o
+*.out
+
+# Executable
+a.out
